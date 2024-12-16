@@ -310,5 +310,3 @@ with tab3 :
         st.markdown("© 2024 Huwaida Nur Asysyifa. All rights reserved.")
 
 # ======================================================
-
->>>>>>> 5374a4dd9c7546e4a17c5652706010232393d0fa
